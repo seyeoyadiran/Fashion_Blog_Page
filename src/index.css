@@ -1,0 +1,66 @@
+html {
+    border-left: 5px solid lightgrey ;
+}
+
+body {
+    min-height: "100vh";
+    font-family: sans-serif;
+    max-width: "100px";
+    margin: auto;
+}
+
+header,
+main,
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+h1 {
+    color: tomato
+}
+
+img {
+    width: 100%;
+}
+
+ul{
+    list-style-type: none;
+
+}
+nav {
+    padding: 10px;
+  }
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: left;
+  }
+
+nav.navbar a{
+    float: left;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 17px;
+ text-align: left;
+    color: gray
+}
+
+article {
+    margin-bottom: 4rem;
+}
+
+.myText::first-letter {
+  font-size: 200%;
+  font-weight: bold;
+  color: lightgrey;
+}
+
+.footerNav{
+    color: tomato;
+}
