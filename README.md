@@ -1,3 +1,3 @@
 # Fashion_Blog_Page
 
-# [(https://oluwaseyesfashionblog.netlify.app)]
+# https://oluwaseyesfashionblog.netlify.app
